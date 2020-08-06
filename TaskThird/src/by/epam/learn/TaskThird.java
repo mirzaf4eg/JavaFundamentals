@@ -39,7 +39,6 @@ public class TaskThird {
                 }
             }
         }
-        public int getN(){
             return N;
         }
         public void setMyArray(int N) {
