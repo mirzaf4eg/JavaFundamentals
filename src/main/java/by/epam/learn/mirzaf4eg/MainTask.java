@@ -54,6 +54,8 @@ public class MainTask {
             myArrayMM.SetMyArray();
         System.out.println("\nThe first Add_taskSecond: Упорядочить строки (столбцы) матрицы в порядке возрастания значений элементов k-го столбца (строки).");
             myArrayMM.SortMyArray();
+
+
     }
 }
 

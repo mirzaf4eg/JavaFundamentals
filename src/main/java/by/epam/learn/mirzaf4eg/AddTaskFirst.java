@@ -40,11 +40,11 @@ public class AddTaskFirst {
     public void GetLong() {
         len = new int[n];
         // Для вычисления длины чисел использую логарифмический подход
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < len.length; i++) {
             len[i] = getLength(num[i]) + 1;
         }
         // На всякий случай выведу в консоль введенные числа и их длину
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j < len.length; j++) {
             System.out.println("The your number: " + num[j] + ", its length: " + len[j]);
         }
         System.out.println();
