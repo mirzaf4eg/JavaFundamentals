@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFundamentals.iml" filepath="$PROJECT_DIR$/.idea/JavaFundamentals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maventest/hello-ci.iml" filepath="$PROJECT_DIR$/maventest/hello-ci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maven-demo/maven-demo.iml" filepath="$PROJECT_DIR$/maven-demo/maven-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epam-task.iml" filepath="$PROJECT_DIR$/epam-task.iml" />
     </modules>
   </component>
 </project>

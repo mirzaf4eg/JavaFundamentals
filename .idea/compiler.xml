@@ -6,13 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maven-demo" />
-        <module name="hello-ci" />
+        <module name="epam-task" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hello-ci" target="1.8" />
-      <module name="maven-demo" target="1.7" />
+      <module name="epam-task" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

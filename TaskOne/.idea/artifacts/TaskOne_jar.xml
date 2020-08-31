@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TaskOne:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TaskOne_jar</output-path>
-    <root id="archive" name="TaskOne.jar">
-      <element id="module-output" name="TaskOne" />
-    </root>
-  </artifact>
-</component>
