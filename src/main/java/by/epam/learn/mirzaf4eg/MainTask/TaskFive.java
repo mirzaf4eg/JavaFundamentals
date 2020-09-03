@@ -1,4 +1,4 @@
-package by.epam.learn.mirzaf4eg;
+package by.epam.learn.mirzaf4eg.MainTask;
 
 import java.util.Scanner;
 

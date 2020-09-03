@@ -1,8 +1,8 @@
-package by.epam.learn.mirzaf4eg;
+package by.epam.learn.mirzaf4eg.OptionalTask;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class AddTaskFirst {
+public class OptionalTaskFirst {
     int[] num;
     int[] len;
     int n;
@@ -11,7 +11,6 @@ public class AddTaskFirst {
         l = (int) (Math.log10(Math.abs(l)));
         return l;
     }
-
     private static int HashNum (int x) {
         HashSet<Integer> h;
         for (h = new HashSet<>(); x > 0; x /= 10) {

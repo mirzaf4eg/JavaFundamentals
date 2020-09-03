@@ -1,4 +1,4 @@
-package by.epam.learn.mirzaf4eg;
+package by.epam.learn.mirzaf4eg.OptionalTask.OptionalTaskSecond;
 import java.util.Random;
 import java.util.Scanner;
 
